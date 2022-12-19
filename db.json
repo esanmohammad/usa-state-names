@@ -20,23 +20,5 @@
       "name": "California",
       "abbreviation": "CA"
     },
-  ],
-  "CANADA": [
-    {
-      "name": "Alberta",
-      "abbreviation": "AB"
-    },
-    {
-      "name": "British Columbia",
-      "abbreviation": "BC"
-    },
-    {
-      "name": "Manitoba",
-      "abbreviation": "MB"
-    },
-    {
-      "name": "New Brunswick",
-      "abbreviation": "NB"
-    }
   ]
 }
